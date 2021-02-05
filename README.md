@@ -1,3 +1,3 @@
 # sugoigame
-Sugoigame, um projeto do Ivan Miranda!
+Sugoigame, um projeto Open Source!
 www.sugoigame.com.br
