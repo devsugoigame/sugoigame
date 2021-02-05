@@ -1,3 +1,3 @@
 # sugoigame
-Sugoigame
-Teste!
+Sugoigame, um projeto do Ivan Miranda!
+www.sugoigame.com.br
